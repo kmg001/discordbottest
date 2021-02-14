@@ -15,4 +15,4 @@ async def on_ready():
 	print(client.user.id)
 	print('------')
   
-client.run('NjgzMzU3MTgzMjg2NTc1MTEw.XlqX_g.-jmjvM5WAHojLbsoscWVgZlmAVc') # or, if running a bot account: client.run('token')
+client.run('bot token') # or, if running a bot account: client.run('token')
